@@ -13,7 +13,7 @@ import (
 
 var (
 	// The root URL we will base all queries off of. Currently only production is supported.
-	BaseMondoURL = "https://production-api.gmon.io"
+	BaseMondoURL = "https://api.monzo.com"
 
 	// OAuth grant type.
 	GrantTypePassword = "password"
